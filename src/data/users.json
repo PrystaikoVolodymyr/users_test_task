@@ -1,0 +1,32 @@
+[
+  {
+    "id": "418a73a1-2c8a-4bc3-a6b6-aef310b9fc57",
+    "name": "Vova",
+    "email": "volodymyr.p4@gmail.com"
+  },
+  {
+    "id": "5cf36bb0-ffdb-41b0-a2cb-3a23751b4697",
+    "name": "Vova",
+    "email": "volodymyr.p4@gmail.com"
+  },
+  {
+    "id": "425d26f2-a895-4f00-8364-87c2eb6d229b",
+    "name": "Vova",
+    "email": "volodymyr.p4@gmail.com"
+  },
+  {
+    "id": "eaeabd99-d481-4590-83e7-45cc23aa4148",
+    "name": "Test User",
+    "email": "test@example.com"
+  },
+  {
+    "id": "5d7633da-bfee-40e2-9338-4eeb07800001",
+    "name": "Test User",
+    "email": "test@example.com"
+  },
+  {
+    "id": "ecd97c08-ee0d-457d-a34e-67cc77a4b35e",
+    "name": "Test User",
+    "email": "test@example.com"
+  }
+]
