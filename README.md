@@ -29,6 +29,10 @@ This Node.js application uses RestFull, Node.js, Express, Jest.
    ```bash
    npm run dev
 
+4. Testing Mode
+   ```bash
+   npm run test
+
 ## .env example
 
 ```
