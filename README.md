@@ -2,7 +2,7 @@
 
 # Users Application
 
-This Node.js application uses RestFull, Node.js, Express, Jest.
+This Node.js application used RestFull, Node.js, Express, Jest. All users information will be in srs/data/users.json
 
 ## Prerequisites
 
